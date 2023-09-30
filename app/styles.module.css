@@ -1,6 +1,26 @@
 .logo{
     font-size: 34.375px;
+    margin-bottom:0;
+    margin-top:0;
+    position: absolute;
 }
 .comercial{
   color: #FFB9AF;
+}
+
+.itemMenu{
+  font-family: Montserrat;
+  font-size: 24.527px;
+  font-weight: 500;
+  margin: 0;
+}
+.menu{
+  justify-content: space-between;
+  display: flex;
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-left: 0;
+  position: absolute;
+  width: 570px;
 }
